@@ -13,7 +13,7 @@
 
 ## 📸 Screenshots
 
-<p float="left">
+<p float="left" align="center">
   <img src="https://github.com/Vinay1291/images/blob/main/Screenshot_BMIv1.png" width="200"/>
 </p>
 
