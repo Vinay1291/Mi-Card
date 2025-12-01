@@ -14,7 +14,7 @@
 ## 📸 Screenshots
 
 <p float="left" align="center">
-  <img src="https://github.com/Vinay1291/images/blob/main/Screenshot_BMIv1.png" width="200"/>
+  <img src="https://github.com/Vinay1291/images/blob/main/Screenshot_MiCard.png" width="200"/>
 </p>
 
 ---
